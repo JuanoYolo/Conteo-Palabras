@@ -8,6 +8,8 @@ Este código en Python analiza la frecuencia de las palabras en un archivo de te
 2. Cuenta la frecuencia de cada palabra única.
 3. Crea un gráfico de barras que muestra la frecuencia de las palabras.
 
+![Conteo de palabras](/img/grafica.png)
+
 ## Requisitos
 
 Para ejecutar este código, necesitarás tener instaladas las siguientes bibliotecas de Python:
